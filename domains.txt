@@ -6,3 +6,4 @@
 192-2: jiffico.gb.net
 134-2: hitclube.cc
 195-2: hitclube.cc
+141-2: Torit.io
